@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T16:23:20.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="EI7_QQP5LJWmVnBj5ms4" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T17:49:51.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="LAdke0klZ3218yHp2QNc" version="22.0.8" type="github">
   <diagram name="Página-1" id="B6JyDYfuaR4T67dyC2_I">
-    <mxGraphModel dx="1106" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="712" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,6 +42,30 @@
         </mxCell>
         <mxCell id="ZeTGr8I9CNjk6_jCJnfP-13" value="+ calcularIVA(porcentaje:double): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZeTGr8I9CNjk6_jCJnfP-7">
           <mxGeometry y="160" width="266" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeTGr8I9CNjk6_jCJnfP-14" value="Mensaje" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="542" width="360" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeTGr8I9CNjk6_jCJnfP-15" value="- saludo: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZeTGr8I9CNjk6_jCJnfP-14">
+          <mxGeometry y="26" width="360" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeTGr8I9CNjk6_jCJnfP-18" value="- ipOrigen: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZeTGr8I9CNjk6_jCJnfP-14">
+          <mxGeometry y="52" width="360" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeTGr8I9CNjk6_jCJnfP-19" value="- ipDestino: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZeTGr8I9CNjk6_jCJnfP-14">
+          <mxGeometry y="78" width="360" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeTGr8I9CNjk6_jCJnfP-16" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="ZeTGr8I9CNjk6_jCJnfP-14">
+          <mxGeometry y="104" width="360" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeTGr8I9CNjk6_jCJnfP-17" value="+ calcularNumeroPalabras(): int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZeTGr8I9CNjk6_jCJnfP-14">
+          <mxGeometry y="112" width="360" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeTGr8I9CNjk6_jCJnfP-20" value="+ setters y getters" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZeTGr8I9CNjk6_jCJnfP-14">
+          <mxGeometry y="138" width="360" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeTGr8I9CNjk6_jCJnfP-21" value="+ mostrarInfo():String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZeTGr8I9CNjk6_jCJnfP-14">
+          <mxGeometry y="164" width="360" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

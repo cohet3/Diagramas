@@ -1,9 +1,147 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T16:25:49.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" version="22.1.5" etag="na7iJz4RWTQ7X63GykOB" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T17:17:11.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="Kt22H7aGGNCrwxDgUUBD" version="22.1.5" type="github">
   <diagram name="Página-1" id="AFjlFK9AtEWysbtkavme">
-    <mxGraphModel>
+    <mxGraphModel dx="1106" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RNF_GtRLX9edC-EmoNGs-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-1" value="Conductor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-2" value="estación de autobuses" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RNF_GtRLX9edC-EmoNGs-3" target="RNF_GtRLX9edC-EmoNGs-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-3" value="autobús" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RNF_GtRLX9edC-EmoNGs-4" target="RNF_GtRLX9edC-EmoNGs-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-4" value="lugares" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RNF_GtRLX9edC-EmoNGs-5" target="RNF_GtRLX9edC-EmoNGs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-5" value="conduce" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-9" value="Fecha en la que visita el lugar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-10" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="78" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-11" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="148" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-12" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="138" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-13" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="78" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-14" value="(1,1)(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="58" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RNF_GtRLX9edC-EmoNGs-20" target="RNF_GtRLX9edC-EmoNGs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-20" value="recorre" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-26" value="Autobuses" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-27" value="Recorrer" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="550" width="80" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-28" value="lugares" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-29" value="Conductores" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RNF_GtRLX9edC-EmoNGs-27" target="RNF_GtRLX9edC-EmoNGs-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="630" as="sourcePoint" />
+            <mxPoint x="440" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.05;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RNF_GtRLX9edC-EmoNGs-26" target="RNF_GtRLX9edC-EmoNGs-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.442;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RNF_GtRLX9edC-EmoNGs-27" target="RNF_GtRLX9edC-EmoNGs-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-33" value="(n,m)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="508" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-34" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="538" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-35" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="608" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-36" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="518" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-37" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="608" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-38" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="698" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-39" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415" y="698" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-40" value="Matricula" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-41" value="modelo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-42" value="LuagarId" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-43" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-44" value="ConductorID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-45" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-46" value="Dni" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RNF_GtRLX9edC-EmoNGs-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="630" as="sourcePoint" />
+            <mxPoint x="420" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="570" />
+              <mxPoint x="420" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-48" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="558" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-49" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="618" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RNF_GtRLX9edC-EmoNGs-50" value="(n,m)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="618" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
